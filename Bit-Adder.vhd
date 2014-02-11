@@ -38,9 +38,13 @@ entity Bit-Adder is
 end Bit-Adder;
 
 architecture Behavioral of Bit-Adder is
-
+SIGNAL D,E,F : STD_LOGIC;
 begin
-
+D <= I1 xor I2;
+O <= E xor CI;
+E <= D and CI;
+F <= I1 and I2;
+CO <= E or F;
 
 end Behavioral;
 
