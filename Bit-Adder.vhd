@@ -32,8 +32,9 @@ use IEEE.STD_LOGIC_1164.ALL;
 entity Bit-Adder is
     Port ( I1 : in  STD_LOGIC;
            I2 : in  STD_LOGIC;
+			  CI : in  STD_LOGIC;
            O : out  STD_LOGIC;
-           C : out  STD_LOGIC);
+           CO : out  STD_LOGIC);
 end Bit-Adder;
 
 architecture Behavioral of Bit-Adder is
