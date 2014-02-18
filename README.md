@@ -14,4 +14,4 @@ ECE281_Lab2
 |1|1|1|1|1|
 
 ##Testbench Picture
-Testbench being funky...Check back later
+![alt text](https://raw2.github.com/jcel/ECE281_Lab2/master/CapturePrelim.PNG "ISE Screen Capture")
