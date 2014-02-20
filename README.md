@@ -29,3 +29,10 @@ program.  This was fixed by renaming the files and copying the code over.
 
 ##Main Labratory Exercise
 
+####Design Process
+My design process was to create the functionality of a single bit adder, and chain the adder 4 times to 
+create the full 4 bit adder.  By chaining the carry values, it created a series which added and used the 
+carry value to make a full four bit adder.
+
+####Final Schematic
+![alt text](https://raw2.github.com/jcel/ECE281_Lab2/master/Four_Final.jpg "Schematic")
