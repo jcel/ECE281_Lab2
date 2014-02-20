@@ -1,0 +1,15 @@
+NET "Ain(0)" LOC = "R17";
+NET "Ain(1)" LOC = "N17";
+NET "Ain(2)" LOC = "L13";
+NET "Ain(3)" LOC = "L14";
+NET "Bin(0)" LOC = "K17";
+NET "Bin(1)" LOC = "K18";
+NET "Bin(2)" LOC = "H18";
+NET "Bin(3)" LOC = "G18";
+NET "Cin" LOC = "H13";
+
+NET "O(0)" LOC = "J14";
+NET "O(1)" LOC = "J15";
+NET "O(2)" LOC = "K15";
+NET "O(3)" LOC = "K14";
+NET "Overflow" LOC = "P15";
