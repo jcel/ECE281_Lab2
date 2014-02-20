@@ -36,3 +36,6 @@ carry value to make a full four bit adder.
 
 ####Final Schematic
 ![alt text](https://raw2.github.com/jcel/ECE281_Lab2/master/Four_Final.jpg "Schematic")
+
+####Testbench Output Sample
+![alt text](https://raw2.github.com/jcel/ECE281_Lab2/master/FinalTestbench.PNG "ISE Screen Capture")
